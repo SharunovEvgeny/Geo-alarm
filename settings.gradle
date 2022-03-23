@@ -1,0 +1,2 @@
+rootProject.name = "Geo-alarm"
+include ':app'

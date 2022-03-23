@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo-alarm</string>
+    <string name="set_alarm">Установить будильник</string>
+    <string name="add_alarm_button">+</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="delete">Delete</string>
+    <string name="alarm">Alarm</string>
+</resources>
